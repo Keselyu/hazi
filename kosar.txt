@@ -1,0 +1,12 @@
+salata;400;2
+paradicsom;540;0.5
+salata;349;5
+paradicsom;590;0.3
+salata;405;12
+paradicsom;550;0.8
+salata;340;8
+paradicsom;520;0.2
+salata;450;6
+paradicsom;599;0.4
+salata;390;3
+paradicsom;490;0.7
